@@ -3,6 +3,8 @@
 🥭🥭🥭 Rubyで最長しりとりを探すプログラム！  
 "Ruby on Rails(API mode)"と"Next.js(SSR)"で開発したWebアプリです。  
 
+![成果物](./docs/img/fruit.gif)  
+
 ## 実行方法
 
 ```shell
